@@ -70,5 +70,7 @@
     "solidity-coverage": "^0.7.11",
     "solidity-docgen": "^0.5.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0"
+  }
 }
